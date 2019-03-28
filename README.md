@@ -17,7 +17,7 @@ Assign **save_landmark_anno** to **label_path** in **train.py**.
 
 `python train.py`
 
-The model file is stored as **my_net.pkl in the current directory.
+The model file is stored as **my_net.pkl in** the current directory.
 
 ### test
 Assign the test image file path to **img_path** in **test.py**.
