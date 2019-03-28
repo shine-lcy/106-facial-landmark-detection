@@ -1,4 +1,4 @@
-数据预处理gen_img.py：
+# 数据预处理gen_img.py：
 将标注的106点数据存储为.txt形式，按照106个点的顺序，先存某点的x坐标，再存其y坐标。 其中一张图对应一个txt文件，其命名相同。
 运行gen_img.py，其中需要自定义图片存储路径imgpath、txt文件存储路径landmark、新的txt文件存储save_landmark_anno以及数据增广之后的图片存储路径landmark_imgs_save_dir
 
