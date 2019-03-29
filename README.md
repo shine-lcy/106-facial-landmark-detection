@@ -1,6 +1,5 @@
 # 106-facial-landmark-detection
-![demo_1](https://github.com/1161313414/106-facial-landmark-detection/blob/master/demo_image/demo_1.jpg)
-![demo_2](https://github.com/1161313414/106-facial-landmark-detection/blob/master/demo_image/demo_2.jpg)
+![demo](https://github.com/1161313414/106-facial-landmark-detection/blob/master/demo.jpg)
 ## Installation 
 python 2.7  
 pytorch 0.4.1  
