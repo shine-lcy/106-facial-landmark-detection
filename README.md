@@ -1,4 +1,6 @@
 # 106-facial-landmark-detection
+This is just the first version of the code, the latest code has not been organized.
+The code will be updated soon.
 ![demo](https://github.com/1161313414/106-facial-landmark-detection/blob/master/demo.png)
 ## Installation 
 python 2.7  
